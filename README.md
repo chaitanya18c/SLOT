@@ -123,4 +123,4 @@ Execute the program
 ![HTML VALIDATOR](./valid.png)
 
 # RESULT
-The program for creating SLOT time table is completed succesfully
+The program for creating SLOT time table is completed succesfully.
